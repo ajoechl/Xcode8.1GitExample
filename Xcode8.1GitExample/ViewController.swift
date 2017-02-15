@@ -16,6 +16,8 @@ class ViewController: NSViewController {
         // Do any additional setup after loading the view.
         
         // additional comment!
+        
+        // another comment?
     }
 
     override var representedObject: Any? {
